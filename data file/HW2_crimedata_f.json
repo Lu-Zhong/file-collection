@@ -1,0 +1,302 @@
+[
+  {
+    "institution":"Assumption College",
+    "city":"worcester",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 4,
+        "2011": 4,
+        "2012": 4
+        }
+  },
+  {
+    "institution":"College of the Holy Cross",
+    "city":"worcester",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 2,
+        "2011": 4,
+        "2012": 8
+        }
+  },
+  {
+    "institution":"Clark University",
+    "city":"worcester",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 5,
+        "2011": 3,
+        "2012": 2
+        }
+  },
+  {
+    "institution":"Worcester Polytechnic Institute",
+    "city":"worcester",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 0,
+        "2011": 0,
+        "2012": 0
+        }
+  },
+  {
+    "institution":"Hampshire College",
+    "city":"Amherst",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 11,
+        "2011": 7,
+        "2012": 13
+        }
+  },
+  {
+    "institution":"Amherst University",
+    "city":"Ameherst",
+    "type":"Private",
+     "sexoffense": {
+        "2010": 14,
+        "2011": 15,
+        "2012": 17
+        }
+  },
+  {
+    "institution":"Wheelock College",
+    "city":"Boston",
+    "type":"Private",
+     "sexoffense": {
+        "2010": 0,
+        "2011": 1,
+        "2012": 0
+        }
+  },
+  {
+    "institution":"Worcester State University",
+    "city":"Worcester",
+    "type":"Public",
+    "sexoffense": {
+        "2010": 3,
+        "2011": 5,
+        "2012": 7
+        }
+  },
+  {
+    "institution":"Boston Architectural College",
+    "city":"Boston",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 0,
+        "2011": 0,
+        "2012": 0
+        }
+  },
+  {
+    "institution":"Fisher College",
+    "city":"Boston",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 1,
+        "2011": 0,
+        "2012": 0
+        }
+  },
+  {
+    "institution":"Masshachusetts College of Art and Design",
+    "city":"Boston",
+    "type":"Public",
+    "sexoffense": {
+        "2010": 1,
+        "2011": 3,
+        "2012": 2
+        }
+  },
+  {
+    "institution":"Emmanuel College",
+    "city":"Boston",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 1,
+        "2011": 0,
+        "2012": 1
+        }
+  },
+  {
+    "institution":"Wentworth Institute of Technology",
+    "city":"Boston",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 0,
+        "2011": 0,
+        "2012": 2
+        }
+  },
+  {
+    "institution":"Emerson College",
+    "city":"Boston",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 0,
+        "2011": 2,
+        "2012": 3
+        }
+  },
+  {
+    "institution":"Simmons College",
+    "city":"Boston",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 2,
+        "2011": 1,
+        "2012": 1
+        }
+  },
+  {
+    "institution":"Suffolk College",
+    "city":"Boston",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 2,
+        "2011": 0,
+        "2012": 0
+        }
+  },
+  {
+    "institution":"Bunker Hill Community College",
+    "city":"Boston",
+    "type":"Public",
+    "sexoffense": {
+        "2010": 0,
+        "2011": 0,
+        "2012": 0
+        }
+  },
+  {
+    "institution":"University of Masshachusetts-Boston",
+    "city":"Boston",
+    "type":"Public",
+    "sexoffense": {
+        "2010": 1,
+        "2011": 0,
+        "2012": 1
+        }
+  },
+  {
+    "institution":"Northeastern University",
+    "city":"Boston",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 2,
+        "2011": 6,
+        "2012": 5
+        }
+  },
+  {
+    "institution":"Boston University",
+    "city":"Boston",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 8,
+        "2011": 6,
+        "2012": 9
+        }
+  },
+  {
+    "institution":"Lesley University",
+    "city":"Cambridge",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 0,
+        "2011": 1,
+        "2012": 2
+        }
+  },
+  {
+    "institution":"Masshachusetts Institue of Technology",
+    "city":"Cambridge",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 3,
+        "2011": 6,
+        "2012": 7
+        }
+  },
+  {
+    "institution":"Harvard University",
+    "city":"Cambridge",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 35,
+        "2011": 21,
+        "2012": 31
+        }
+  },
+ {
+    "institution":"Laboure College",
+    "city":"Milton",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 0,
+        "2011": 0,
+        "2012": 0
+        }
+  },
+   {
+    "institution":"Curry College",
+    "city":"Milton",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 0,
+        "2011": 3,
+        "2012": 1
+        }
+  },
+   {
+    "institution":"Mount Ida College",
+    "city":"Newton",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 4,
+        "2011": 4,
+        "2012": 1
+        }
+  },
+   {
+    "institution":"Eastern Nazarene College",
+    "city":"Quincy",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 0,
+        "2011": 1,
+        "2012": 1
+        }
+  },
+   {
+    "institution":"Quincy College",
+    "city":"Quincy",
+    "type":"Public",
+    "sexoffense": {
+        "2010": 0,
+        "2011": 0,
+        "2012": 0
+        }
+  },
+   {
+    "institution":"Springfield College",
+    "city":"Springfield",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 1,
+        "2011": 1,
+        "2012": 2
+        }
+  },
+   {
+    "institution":"Western New England University",
+    "city":"Springfield",
+    "type":"Private",
+    "sexoffense": {
+        "2010": 3,
+        "2011": 2,
+        "2012": 1
+        }
+  }
+]
